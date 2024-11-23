@@ -1,0 +1,15 @@
+/* Srabondhara Font Face */
+@font-face {
+  font-family: "shimulxdui";
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./shimulxdui.woff2) format("woff");
+}
+@font-face {
+  font-family: "shimulxdui";
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(./shimulxdui.woff2) format("woff");
+}
