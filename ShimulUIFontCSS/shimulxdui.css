@@ -1,7 +1,13 @@
+/* shimulxdui Normal font face */
 @font-face {
   font-family: 'shimulxdui';
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('../fonts/shimulxdui.woff2') format('woff2');
+  src: url('https://cdn.jsdelivr.net/gh/ShimulXD/ShimulXDUIFont/fonts/shimulxdui.woff2') format('woff2');
+}
+
+/* Body font style to use shimulxdui by default */
+body {
+  font-family: 'shimulxdui', sans-serif;
 }
