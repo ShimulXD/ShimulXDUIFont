@@ -3,5 +3,5 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('https://cdn.jsdelivr.net/gh/ShimulXD/ShimulXDUIFont/fonts/shimulxdui.woff2') format('woff2');
+  src: url('../fonts/shimulxdui.woff2') format('woff2');
 }
