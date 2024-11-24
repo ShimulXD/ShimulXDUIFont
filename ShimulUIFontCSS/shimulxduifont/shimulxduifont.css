@@ -1,0 +1,8 @@
+/* shimulxdui Font Face */
+@font-face {
+  font-family: 'shimulxdui';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(../fonts/shimulxduifont/shimulxdui.woff) format('woff');
+}
